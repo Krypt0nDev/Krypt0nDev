@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Krypt0nDev
-- 👀 I’m interested in games and apps development.
-- 🌱 I’m currently learning C++, C#, Python.
+- Hey, I'm Krypton.
+- Currently using C++, C# and python.
+- Interested games and apps development.
+- @Krypt0nDev
 
 <!---
 Krypt0nDev/Krypt0nDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
